@@ -11,3 +11,10 @@ export const getUserFromDB = async (): Promise<IUser[]> => {
   const users = await User.find();
   return users;
 };
+
+export const getUserByIdFromDB = async (
+  payload: string
+): Promise<IUser | null> => {
+  const user = await User.findOne({ id: payload }, { name: 1 }); // it will show only name from data
+  return user;
+};
