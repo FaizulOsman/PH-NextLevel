@@ -18,3 +18,9 @@ export const getUserByIdFromDB = async (
   const user = await User.findOne({ id: payload }, { name: 1 }); // it will show only name from data
   return user;
 };
+
+export const getAdminUsersFromDB = async () => {
+  const admins = await User.getAdminUsers(); // it will show only name from data
+  console.log(admins);
+  return admins;
+};
