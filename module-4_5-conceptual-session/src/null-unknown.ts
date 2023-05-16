@@ -9,12 +9,12 @@
 // myText(null);
 // myText("Hello");
 
-// unknown
-const guessSomething = (myGuess: unknown): void => {
-  console.log(myGuess);
-};
-guessSomething(undefined);
-guessSomething(true);
-guessSomething(null);
-guessSomething("Hello");
-guessSomething(123);
+// // unknown
+// const guessSomething = (myGuess: unknown): void => {
+//   console.log(myGuess);
+// };
+// guessSomething(undefined);
+// guessSomething(true);
+// guessSomething(null);
+// guessSomething("Hello");
+// guessSomething(123);
