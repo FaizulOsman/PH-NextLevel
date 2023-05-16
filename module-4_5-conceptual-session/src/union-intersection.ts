@@ -12,3 +12,10 @@ const heroData: HeroB = {
   age: 52,
   position: "Developer",
 };
+
+// Union Type
+const myFavHero: HeroA | HeroB = {
+  name: "Abul",
+  //   age: 52,
+  position: "Developer",
+};
