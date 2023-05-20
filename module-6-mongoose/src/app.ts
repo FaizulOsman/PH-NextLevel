@@ -6,6 +6,7 @@ const app: Application = express();
 
 // using cors
 app.use(cors());
+
 app.use(express.urlencoded({ extended: true }));
 
 // parse data
