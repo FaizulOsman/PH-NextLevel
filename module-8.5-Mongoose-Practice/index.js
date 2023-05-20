@@ -35,14 +35,26 @@ db.practiceModuleData.updateOne(
   { $set: { "address.zipcode": "10002" } }
 );
 
-// Delete the user with the email "alicewilliams@example.com" from the user data.
+// Task 7: Delete the user with the email "alicewilliams@example.com" from the user data.
 db.practiceModuleData.deleteOne({ email: "alicewilliams@example.com" });
 
-// Group users by their favorite movie and retrieve the average age in each movie group.
+// Task 8: Group users by their favorite movie and retrieve the average age in each movie group.
 db.practiceModuleData.aggregate([
   {
     $group: {
       _id: "$favorites.movie",
+      count: { $sum: 1 },
+      totalAge: { $avg: "$age" },
+    },
+  },
+]);
+
+// Task 9: Calculate the average age of users with a favorite " pizza " food.
+db.practiceModuleData.aggregate([
+  { $match: { "favorites.food": "pizza" } },
+  {
+    $group: {
+      _id: null,
       count: { $sum: 1 },
       totalAge: { $avg: "$age" },
     },
