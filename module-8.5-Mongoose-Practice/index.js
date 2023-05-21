@@ -17,3 +17,14 @@ db.practiceModuleData.aggregate([
 db.practiceModuleData.aggregate([
   { $match: { age: { $gt: 30 }, "favorites.color": "green" } },
 ]);
+
+// Task 5: Count the number of users whose favorite movie is "The Shawshank Redemption."
+db.practiceModuleData.aggregate([
+  { $match: { "favorites.movie": "The Shawshank Redemption" } },
+  {
+    $group: {
+      _id: null,
+      count: { $sum: 1 },
+    },
+  },
+]);
