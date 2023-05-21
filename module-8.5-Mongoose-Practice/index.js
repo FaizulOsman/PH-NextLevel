@@ -114,3 +114,13 @@ db.practiceModuleData.aggregate([
     },
   },
 ]);
+
+// Task 15: Find the user(s) with the longest name.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: null,
+      size: { $max: { $strLenCP: "$name" } },
+    },
+  },
+]);
