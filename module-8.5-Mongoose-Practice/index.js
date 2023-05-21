@@ -92,3 +92,15 @@ db.practiceModuleData.aggregate([
     },
   },
 ]);
+
+// Task 13: Find the most common favorite food among all users.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: "$favorites.food",
+      count: { $sum: 1 },
+    },
+  },
+  { $sort: { count: -1 } },
+  { $limit: 1 },
+]);
