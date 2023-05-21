@@ -28,3 +28,9 @@ db.practiceModuleData.aggregate([
     },
   },
 ]);
+
+// Task 6: Update the zipcode of the user with the email "johndoe@example.com" to "10002".
+db.practiceModuleData.updateOne(
+  { email: "johndoe@example.com" },
+  { $set: { "address.zipcode": "10002" } }
+);
