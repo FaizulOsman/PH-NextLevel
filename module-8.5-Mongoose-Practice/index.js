@@ -124,3 +124,13 @@ db.practiceModuleData.aggregate([
     },
   },
 ]);
+
+// Task 6: Calculate each state's total number of users in the address field.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: null,
+      maxAddressLength: { $max: { $size: { $objectToArray: "$address" } } },
+    },
+  },
+]);
