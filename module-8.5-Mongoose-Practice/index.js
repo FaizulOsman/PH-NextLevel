@@ -125,12 +125,22 @@ db.practiceModuleData.aggregate([
   },
 ]);
 
-// Task 6: Calculate each state's total number of users in the address field.
+// Task 16: Calculate each state's total number of users in the address field.
 db.practiceModuleData.aggregate([
   {
     $group: {
       _id: null,
       maxAddressLength: { $max: { $size: { $objectToArray: "$address" } } },
+    },
+  },
+]);
+
+// Task 17: Find the user(s) with the highest number of friends.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: null,
+      objectLength: { $max: { $size: "$friends" } },
     },
   },
 ]);
