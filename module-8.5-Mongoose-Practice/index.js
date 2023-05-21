@@ -34,3 +34,6 @@ db.practiceModuleData.updateOne(
   { email: "johndoe@example.com" },
   { $set: { "address.zipcode": "10002" } }
 );
+
+// Delete the user with the email "alicewilliams@example.com" from the user data.
+db.practiceModuleData.deleteOne({ email: "alicewilliams@example.com" });
