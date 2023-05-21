@@ -37,3 +37,14 @@ db.practiceModuleData.updateOne(
 
 // Delete the user with the email "alicewilliams@example.com" from the user data.
 db.practiceModuleData.deleteOne({ email: "alicewilliams@example.com" });
+
+// Group users by their favorite movie and retrieve the average age in each movie group.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: "$favorites.movie",
+      count: { $sum: 1 },
+      totalAge: { $avg: "$age" },
+    },
+  },
+]);
