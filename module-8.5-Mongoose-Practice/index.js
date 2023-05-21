@@ -104,3 +104,13 @@ db.practiceModuleData.aggregate([
   { $sort: { count: -1 } },
   { $limit: 1 },
 ]);
+
+// Task 14: Calculate the total count of friends across all users.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: null,
+      size: { $sum: { $size: "$friends" } },
+    },
+  },
+]);
