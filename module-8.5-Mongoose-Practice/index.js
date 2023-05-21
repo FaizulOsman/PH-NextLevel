@@ -60,3 +60,15 @@ db.practiceModuleData.aggregate([
     },
   },
 ]);
+
+// Task 10: Perform a lookup aggregation to retrieve the orders data along with the customer details for each order.
+db.practiceOrdersData.aggregate([
+  {
+    $lookup: {
+      from: "practiceCustomersData",
+      localField: "customer_id",
+      foreignField: "_id",
+      as: "updateCustomerDataInOrder",
+    },
+  },
+]);

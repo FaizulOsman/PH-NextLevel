@@ -1,0 +1,996 @@
+[{
+  "_id": {
+    "$oid": "636cc0e31b96a05edbe8713f"
+  },
+  "account_number": "0200011867565",
+  "bank_name": "Agrani Bank",
+  "holder_name": "Shaikh Najmul Islam ",
+  "ifsc_code": "5642",
+  "created_by": "najmul130",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636cd1ce6e694cd8a2aa1d47"
+  },
+  "account_number": "0200011867565",
+  "bank_name": "Islam",
+  "holder_name": "Shaikh Najmul",
+  "ifsc_code": "5642",
+  "created_by": "najmul1",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636cd9838c9b9e15f7731c3d"
+  },
+  "account_number": "2015896321",
+  "bank_name": "Andhra Bank",
+  "holder_name": "Rakibul Hasan",
+  "ifsc_code": "333",
+  "created_by": "rakibul1",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636e03835164415ddbc1f82c"
+  },
+  "account_number": "555",
+  "bank_name": "Andhra Bank",
+  "holder_name": "3W",
+  "ifsc_code": "55",
+  "created_by": "triplewsols3w",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636f3a82b4af33708953baf7"
+  },
+  "account_number": "33",
+  "bank_name": "Andhra Bank",
+  "holder_name": "fdfd",
+  "ifsc_code": "dfadfad",
+  "created_by": "zaman3w",
+  "status": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636f476b2c9660fe79dce660"
+  },
+  "account_number": "3212341341234",
+  "bank_name": "AB bank",
+  "holder_name": "Abu Bashar",
+  "ifsc_code": "dfa231qd",
+  "created_by": "zaman3w",
+  "status": false,
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-01-15T08:54:06.635Z"
+  }
+},{
+  "_id": {
+    "$oid": "636f8c9a9e4f99f0ad3db5e6"
+  },
+  "account_number": "534545346345364",
+  "bank_name": "Allahabad Bank",
+  "holder_name": "54kjhkhk",
+  "ifsc_code": "53453475454",
+  "created_by": "rajarishabh47",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370be08569d270716ff6b41"
+  },
+  "account_number": "3214341",
+  "bank_name": "SdSD",
+  "holder_name": "Abu Bashar",
+  "ifsc_code": "1234134",
+  "created_by": "zaman9",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6371fb082e0d5650bf9e0930"
+  },
+  "account_number": "242424",
+  "bank_name": "adfadfasd",
+  "holder_name": "sdasdda",
+  "ifsc_code": "adfdf2r2f23",
+  "created_by": "kamrul3w",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63744a65dae862295e351b29"
+  },
+  "account_number": "43415452352452",
+  "bank_name": "AB bank",
+  "holder_name": "Abu Bashar",
+  "ifsc_code": "3434",
+  "created_by": "hero1",
+  "status": false,
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2023-01-05T01:19:05.107Z"
+  }
+},{
+  "_id": {
+    "$oid": "6374b229fa107aab7db539fc"
+  },
+  "account_number": "0200011867565",
+  "bank_name": "Agrani Bank",
+  "holder_name": "Shaikh Najmul Islam ",
+  "ifsc_code": "5555",
+  "created_by": "najmul3w",
+  "status": false,
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2022-12-26T04:00:53.032Z"
+  }
+},{
+  "_id": {
+    "$oid": "63798a72c0cd71e5853a89be"
+  },
+  "account_number": "020910068654",
+  "bank_name": "india post payment bank",
+  "holder_name": "Ajit kumar",
+  "ifsc_code": "IPOS0000001",
+  "created_by": "taskplanet12",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f7e97213e27923a637ec9"
+  },
+  "account_number": "146522010002733",
+  "bank_name": "union Bank of India ",
+  "holder_name": "Md Aslam Ansari",
+  "ifsc_code": "UBIN0914657",
+  "created_by": "mdaslam1",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63809758cfdc7b4f88cacc58"
+  },
+  "account_number": "40620058492",
+  "bank_name": "State Bank Of India",
+  "holder_name": "Sujit Kumar Jha",
+  "ifsc_code": "SBIN0006448",
+  "created_by": "rudra2020",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380995bcfdc7b4f88cacc9c"
+  },
+  "account_number": "26608100009330",
+  "bank_name": "BANK OF BARODA ",
+  "holder_name": "SUDIP SAHOO",
+  "ifsc_code": "BARB0KESTOP",
+  "created_by": "sudiprita927",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385715854dcfe8f853187e6"
+  },
+  "account_number": "020910068654",
+  "bank_name": "india post payment bank",
+  "holder_name": "Ajit kumar ",
+  "ifsc_code": "IPOS0000001",
+  "created_by": "taskplanet12",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63860e223ac9cdd11950435d"
+  },
+  "account_number": "36063128987",
+  "bank_name": "STATE BANK OF INDIA",
+  "holder_name": "Prabhas kumar",
+  "ifsc_code": "SBIN0002969",
+  "created_by": "prabhash12",
+  "status": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638a08f80dbd8a730d60efe9"
+  },
+  "account_number": "110056301245",
+  "bank_name": "canara bank ",
+  "holder_name": "prince Kumar ",
+  "ifsc_code": "CNRB0006092",
+  "created_by": "kprince6108",
+  "status": false,
+  "createdAt": {
+    "$date": "2022-12-02T14:17:28.756Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-02T14:19:07.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638a09b70dbd8a730d60f023"
+  },
+  "account_number": "110056301245",
+  "bank_name": "canara bank ",
+  "holder_name": "prince Kumar",
+  "ifsc_code": "CNRB0006092",
+  "created_by": "kprince6108",
+  "status": false,
+  "createdAt": {
+    "$date": "2022-12-02T14:20:39.608Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-02T14:21:40.449Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63902a70815b89df49fbc23c"
+  },
+  "account_number": "38586927286",
+  "bank_name": "state bank of india",
+  "holder_name": "Nihar ranjan sahoo",
+  "ifsc_code": "SBIN0007050",
+  "created_by": "nihar99370",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-07T05:53:52.999Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-07T05:53:52.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63905256d79bb72e1ca93d21"
+  },
+  "account_number": "917010047857333",
+  "bank_name": "AXIS BANK",
+  "holder_name": "ATULBHAI SHIVABHAI PATEL",
+  "ifsc_code": "UTIB0001337",
+  "created_by": "atul2123",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-07T08:44:06.873Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-07T08:44:06.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63908ad1d79bb72e1ca9491e"
+  },
+  "account_number": "55550119939278",
+  "bank_name": "Federal Bank",
+  "holder_name": "Sek Naimuddin",
+  "ifsc_code": "EDRL0005555",
+  "created_by": "seknaimuddin677",
+  "status": false,
+  "createdAt": {
+    "$date": "2022-12-07T12:45:05.619Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-07T12:50:31.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63908d1cd79bb72e1ca94abe"
+  },
+  "account_number": "55550119939278",
+  "bank_name": "Federal Bank",
+  "holder_name": "Sek Naimuddin ",
+  "ifsc_code": "FDRL0005555",
+  "created_by": "seknaimuddin677",
+  "status": false,
+  "createdAt": {
+    "$date": "2022-12-07T12:54:52.208Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-18T18:21:03.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63917cadd79bb72e1ca96dc8"
+  },
+  "account_number": "009410103254",
+  "bank_name": "Indian post payment bank",
+  "holder_name": "Jagrnath kumar gupta ",
+  "ifsc_code": "IPOS0000001",
+  "created_by": "taskplanet122",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-08T05:57:01.029Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-08T05:57:01.029Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639840bc0b8f289b1480e9b9"
+  },
+  "account_number": "901910510001098",
+  "bank_name": "Bank of india pachama",
+  "holder_name": "premnarayan",
+  "ifsc_code": "BKID0009019",
+  "created_by": "prem7723",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-13T09:07:08.138Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-13T09:07:08.138Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639b2775890cd25a77473602"
+  },
+  "account_number": "100043270459",
+  "bank_name": "EQUITAS SMALL FINANCE BANK",
+  "holder_name": "SANJAYKUMAR K",
+  "ifsc_code": "ESFB0001008",
+  "created_by": "sanjaykumar67",
+  "status": false,
+  "createdAt": {
+    "$date": "2022-12-15T13:56:05.826Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-15T14:01:42.619Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c56c8fa35c22d6a2be051"
+  },
+  "account_number": "50100481301943",
+  "bank_name": "HDFC Bank",
+  "holder_name": "Brijesh jaiswal ",
+  "ifsc_code": "HDFC0000485",
+  "created_by": "brijesh3w",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-16T11:30:16.336Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-16T11:30:16.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639f5ad49e7fa5ec9ec1799d"
+  },
+  "account_number": "918780295193",
+  "bank_name": "PAYTM PAYMENT BANK",
+  "holder_name": "Sek Naimuddin ",
+  "ifsc_code": "PYTM0123456",
+  "created_by": "seknaimuddin677",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-18T18:24:20.996Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-18T18:24:20.996Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a011a19e7fa5ec9ec1891b"
+  },
+  "account_number": "77040243570",
+  "bank_name": "Chhattisgarh rajya Gramin Bank ",
+  "holder_name": "Dharamjeet",
+  "ifsc_code": "CRGB0006072",
+  "created_by": "dharmbabu",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-19T07:24:17.580Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-19T07:24:17.580Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0cdde9e7fa5ec9ec1a059"
+  },
+  "account_number": "918780295193",
+  "bank_name": "PAYTM PAYMENT BANK ",
+  "holder_name": "Sek Naimuddin ",
+  "ifsc_code": "PYTM0123456",
+  "created_by": "seknaimuddin677",
+  "status": false,
+  "createdAt": {
+    "$date": "2022-12-19T20:47:26.137Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-19T20:48:03.522Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a34b545aa8ad24cb8ad7db"
+  },
+  "account_number": "1067642388",
+  "bank_name": "SBI",
+  "holder_name": "Ansh",
+  "ifsc_code": "SBI0007820",
+  "created_by": "akshita1",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-21T18:07:16.375Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-21T18:07:16.375Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a7082f37428680061f7c82"
+  },
+  "account_number": "501210110005349",
+  "bank_name": "BANK OF INDIA",
+  "holder_name": "ROHAM ALI",
+  "ifsc_code": "BKID0005012",
+  "created_by": "roham123",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-24T14:09:51.714Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-24T14:09:51.714Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a96ceb37428680061fbc0c"
+  },
+  "account_number": "32010316222",
+  "bank_name": "State Bank of India ",
+  "holder_name": "Bijaya Kumar Behera ",
+  "ifsc_code": "SBIN0001083",
+  "created_by": "bija123",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-26T09:44:11.950Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-26T09:44:11.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac488329d6b54112e532fb"
+  },
+  "account_number": "6003424764",
+  "bank_name": "airtel payment",
+  "holder_name": "abu shama sheakh",
+  "ifsc_code": "AIRP0000001",
+  "created_by": "aminul",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-28T13:45:39.636Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-28T13:45:39.636Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac488429d6b54112e532fe"
+  },
+  "account_number": "6003424764",
+  "bank_name": "airtel payment",
+  "holder_name": "abu shama sheakh",
+  "ifsc_code": "AIRP0000001",
+  "created_by": "aminul",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-28T13:45:40.055Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-28T13:45:40.055Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad70b429d6b54112e558db"
+  },
+  "account_number": "34241570451",
+  "bank_name": "sbi",
+  "holder_name": "Vaibhav Rupnar",
+  "ifsc_code": "SBIN0004901",
+  "created_by": "vrupnar9",
+  "status": true,
+  "createdAt": {
+    "$date": "2022-12-29T10:49:24.866Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-29T10:49:24.866Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b27c5ee66d806202a8435c"
+  },
+  "account_number": "30228174409",
+  "bank_name": "state bank of india",
+  "holder_name": "praveen singhal",
+  "ifsc_code": "SBIN0000710",
+  "created_by": "praveen1966",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-02T06:40:30.663Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-02T06:40:30.663Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b710f54fef7ff74aa0834e"
+  },
+  "account_number": "0200011867565",
+  "bank_name": "Agrani Bank",
+  "holder_name": "Shaikh Najmul Islam ",
+  "ifsc_code": "6578",
+  "created_by": "najmul3w",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-05T18:03:33.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-05T18:03:33.228Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63bab7467d67fb6aa60dee3b"
+  },
+  "account_number": "2218283031",
+  "bank_name": "Zenith bank",
+  "holder_name": "Oliver barnabas",
+  "ifsc_code": "ZEIBNGLA",
+  "created_by": "oliverjp",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-08T12:29:58.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-08T12:29:58.010Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c3bef174f4c49807132775"
+  },
+  "account_number": "99999999999954634563563",
+  "bank_name": "AB bank",
+  "holder_name": "Abu Bashar",
+  "ifsc_code": "3563",
+  "created_by": "zaman3w",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-15T08:53:05.530Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-15T08:53:05.530Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c620d074f4c49807137872"
+  },
+  "account_number": "919955616225",
+  "bank_name": "Paytm payment Bank ",
+  "holder_name": "Krishna prasad Chaurasia",
+  "ifsc_code": "PYTM0123456",
+  "created_by": "krishnataskplanet",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-17T04:15:12.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-17T04:15:12.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c9efd1119d21959bc96864"
+  },
+  "account_number": "2292129746",
+  "bank_name": "UBA",
+  "holder_name": "Abdulkarim Horo Sadiq",
+  "ifsc_code": "UNAFNGLA181",
+  "created_by": "skymzeeazamani",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-20T01:35:13.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-20T01:35:13.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c9f094119d21959bc9686f"
+  },
+  "account_number": "0103708327",
+  "bank_name": "Union bank",
+  "holder_name": "Abdulkarim Horo Sadiq",
+  "ifsc_code": "Dfjsiegh",
+  "created_by": "skymzeeazamani",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-01-20T01:38:28.279Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-20T01:38:59.236Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cb65e8d08a799403a9a45e"
+  },
+  "account_number": "202361026",
+  "bank_name": "Bank of Bhutan",
+  "holder_name": "Kinley Phurb ",
+  "ifsc_code": "BHUB9100211",
+  "created_by": "manchi",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-21T04:11:20.806Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-21T04:11:20.806Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d130d50e4c80c1ee9efac4"
+  },
+  "account_number": "38725992488",
+  "bank_name": "STATE BANK OF INDIA",
+  "holder_name": "PRAMIT ROY",
+  "ifsc_code": "SBIN0000022",
+  "created_by": "pramitroy1234",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-25T13:38:29.760Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-25T13:38:29.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d68dd23ae12c5ef62c093b"
+  },
+  "account_number": "20087786659",
+  "bank_name": "SBI ",
+  "holder_name": "Hanumagowda I G",
+  "ifsc_code": "SBIN0018223 ",
+  "created_by": "hanumagowda22",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-01-29T15:16:34.619Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-29T15:17:45.184Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e1e7fde99bc2744d7b322d"
+  },
+  "account_number": "363102120006270",
+  "bank_name": "Union Bank of India ",
+  "holder_name": "Raunak Gupta",
+  "ifsc_code": "UBIN0536318",
+  "created_by": "9580074732",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-07T05:56:13.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-07T05:56:13.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e3635de99bc2744d7b73aa"
+  },
+  "account_number": "648002120003073",
+  "bank_name": "union bank of india",
+  "holder_name": "sagar tiwari",
+  "ifsc_code": "UBIN0564800",
+  "created_by": "sagartiwariji",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-08T08:54:53.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-08T08:54:53.592Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e38623e99bc2744d7b75c6"
+  },
+  "account_number": "7770181122451",
+  "bank_name": "equity ",
+  "holder_name": "Brian Ndungu",
+  "ifsc_code": "yriehdjdj",
+  "created_by": "nducha",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-02-08T11:23:15.116Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-13T10:37:26.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e38938e99bc2744d7b7621"
+  },
+  "account_number": "7770181122451",
+  "bank_name": "Equity Bank limited",
+  "holder_name": "Brian Ndungu Mbote",
+  "ifsc_code": "EQBLKENAXXX",
+  "created_by": "nducha",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-08T11:36:24.775Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-08T11:36:24.775Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63efc8ef95c8bf2f746290ab"
+  },
+  "account_number": "PL42249000050000400077353681",
+  "bank_name": "AliorBank",
+  "holder_name": "Alior Bank",
+  "ifsc_code": "ALBPPWPL",
+  "created_by": "krystian31",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-17T18:35:27.471Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T18:35:27.471Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f17f5295c8bf2f74629e30"
+  },
+  "account_number": "35548503434",
+  "bank_name": "State bank of india ",
+  "holder_name": "Lipu Bhoi ",
+  "ifsc_code": "SBIN0009829",
+  "created_by": "lipubhoi7",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-19T01:45:54.024Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-19T01:45:54.024Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f1f0e195c8bf2f7462a4ab"
+  },
+  "account_number": "61083485303",
+  "bank_name": "State Bank of India ",
+  "holder_name": "HAJARI RAM",
+  "ifsc_code": "sbin0031160",
+  "created_by": "hajari",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-19T09:50:25.621Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-19T09:50:25.621Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f202b095c8bf2f7462a732"
+  },
+  "account_number": "917761805489",
+  "bank_name": "paytm payment bank ltd ",
+  "holder_name": "SWAPAN KUMAR SHIT ",
+  "ifsc_code": "Pytm0123456",
+  "created_by": "swapankumar",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-19T11:06:24.213Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-19T11:06:24.213Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fc7b418a3cadfc8ee1709b"
+  },
+  "account_number": "010910100066836",
+  "bank_name": "Union Bank ",
+  "holder_name": "Malepati Venkateswarlu ",
+  "ifsc_code": "UBIN0801097",
+  "created_by": "padmaja6",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-02-27T09:43:29.782Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-27T09:43:29.782Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640038287cee91160e4b7855"
+  },
+  "account_number": "0735119018166",
+  "bank_name": "0735119018166",
+  "holder_name": "VIMAL R",
+  "ifsc_code": "CNRB0000735",
+  "created_by": "rvimal",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-02T05:46:16.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-02T05:46:16.535Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c8d6a4eb5d24602fab2a7"
+  },
+  "account_number": "919764413667",
+  "bank_name": "Paytm Payment Bank",
+  "holder_name": "Shailesh Ashokrao Chame ",
+  "ifsc_code": "PYTM0123456",
+  "created_by": "chame1995",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-11T14:17:14.143Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T14:17:14.143Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641e248ad639be758521b987"
+  },
+  "account_number": "125669874525214",
+  "bank_name": "Mutual  Trust Bank",
+  "holder_name": "Ruman Islam",
+  "ifsc_code": "123456",
+  "created_by": "rumanislam",
+  "status": false,
+  "createdAt": {
+    "$date": "2023-03-24T22:30:34.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T20:56:55.638Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641fdf1828666f3f5a0cf6e6"
+  },
+  "account_number": "39084191475",
+  "bank_name": "State bank of India",
+  "holder_name": "Ronak Ekka",
+  "ifsc_code": "SBIN0008929",
+  "created_by": "ronak896",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-26T05:58:48.607Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-26T05:58:48.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642307ce28666f3f5a0d26cb"
+  },
+  "account_number": "60178173122",
+  "bank_name": "Bank Of Maharashtra",
+  "holder_name": "Rushabh Rajendra Bagde",
+  "ifsc_code": "MAHB0000253",
+  "created_by": "onepunchman",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-03-28T15:29:18.911Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-28T15:29:18.911Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432e3e9e307f6aa1a96987a"
+  },
+  "account_number": "921010041222804",
+  "bank_name": "AXIS BANK",
+  "holder_name": "Pravinder",
+  "ifsc_code": "UTIB0004308",
+  "created_by": "pravinder3w",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-04-09T16:12:25.100Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T16:12:25.100Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64448dd3957c2328af15cfb5"
+  },
+  "account_number": "3200752120",
+  "bank_name": "BCA",
+  "holder_name": "Muntamah",
+  "ifsc_code": "014",
+  "created_by": "taskplanetpro",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-04-23T01:45:55.974Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-23T01:45:55.974Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645c66fa86139bceac4d8502"
+  },
+  "account_number": "918004170542",
+  "bank_name": "Paytm Bank",
+  "holder_name": "Saurabh Singh",
+  "ifsc_code": "PYTM0123456",
+  "created_by": "gasusingh",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-05-11T03:54:34.165Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-11T03:54:34.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64648d4634dcb1c7f1e4127c"
+  },
+  "account_number": "2073101020572",
+  "bank_name": "canara bank ",
+  "holder_name": "foziya",
+  "ifsc_code": "CNRB0002073",
+  "created_by": "foziya",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-05-17T08:16:06.514Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T08:16:06.514Z"
+  },
+  "__v": 0
+}]
