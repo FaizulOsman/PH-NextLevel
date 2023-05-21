@@ -72,3 +72,13 @@ db.practiceOrdersData.aggregate([
     },
   },
 ]);
+
+// Task 11: Group users by their favorite color and retrieve the count of users in each color group.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: "$favorites.color",
+      count: { $sum: 1 },
+    },
+  },
+]);
