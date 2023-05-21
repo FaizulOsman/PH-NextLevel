@@ -82,3 +82,13 @@ db.practiceModuleData.aggregate([
     },
   },
 ]);
+
+// Task 12: Find the user(s) with the highest age.
+db.practiceModuleData.aggregate([
+  {
+    $group: {
+      _id: null,
+      maxAge: { $max: "$age" },
+    },
+  },
+]);
